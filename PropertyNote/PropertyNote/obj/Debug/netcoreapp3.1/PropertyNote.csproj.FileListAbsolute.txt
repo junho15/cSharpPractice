@@ -1,0 +1,13 @@
+C:\C#\PropertyNote\PropertyNote\obj\Debug\netcoreapp3.1\PropertyNote.csprojAssemblyReference.cache
+C:\C#\PropertyNote\PropertyNote\obj\Debug\netcoreapp3.1\PropertyNote.AssemblyInfoInputs.cache
+C:\C#\PropertyNote\PropertyNote\obj\Debug\netcoreapp3.1\PropertyNote.AssemblyInfo.cs
+C:\C#\PropertyNote\PropertyNote\obj\Debug\netcoreapp3.1\PropertyNote.csproj.CoreCompileInputs.cache
+C:\C#\PropertyNote\PropertyNote\bin\Debug\netcoreapp3.1\PropertyNote.exe
+C:\C#\PropertyNote\PropertyNote\bin\Debug\netcoreapp3.1\PropertyNote.deps.json
+C:\C#\PropertyNote\PropertyNote\bin\Debug\netcoreapp3.1\PropertyNote.runtimeconfig.json
+C:\C#\PropertyNote\PropertyNote\bin\Debug\netcoreapp3.1\PropertyNote.runtimeconfig.dev.json
+C:\C#\PropertyNote\PropertyNote\bin\Debug\netcoreapp3.1\PropertyNote.dll
+C:\C#\PropertyNote\PropertyNote\bin\Debug\netcoreapp3.1\PropertyNote.pdb
+C:\C#\PropertyNote\PropertyNote\obj\Debug\netcoreapp3.1\PropertyNote.dll
+C:\C#\PropertyNote\PropertyNote\obj\Debug\netcoreapp3.1\PropertyNote.pdb
+C:\C#\PropertyNote\PropertyNote\obj\Debug\netcoreapp3.1\PropertyNote.genruntimeconfig.cache

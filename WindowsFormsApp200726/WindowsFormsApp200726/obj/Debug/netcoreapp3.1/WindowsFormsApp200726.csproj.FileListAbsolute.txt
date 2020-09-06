@@ -1,0 +1,15 @@
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\bin\Debug\netcoreapp3.1\WindowsFormsApp200726.exe
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\bin\Debug\netcoreapp3.1\WindowsFormsApp200726.deps.json
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\bin\Debug\netcoreapp3.1\WindowsFormsApp200726.runtimeconfig.json
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\bin\Debug\netcoreapp3.1\WindowsFormsApp200726.runtimeconfig.dev.json
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\bin\Debug\netcoreapp3.1\WindowsFormsApp200726.dll
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\bin\Debug\netcoreapp3.1\WindowsFormsApp200726.pdb
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.csprojAssemblyReference.cache
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.AssemblyInfoInputs.cache
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.AssemblyInfo.cs
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.csproj.CoreCompileInputs.cache
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.dll
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.pdb
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.genruntimeconfig.cache
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.Form1.resources
+C:\C#\WindowsFormsApp200726\WindowsFormsApp200726\obj\Debug\netcoreapp3.1\WindowsFormsApp200726.csproj.GenerateResource.cache

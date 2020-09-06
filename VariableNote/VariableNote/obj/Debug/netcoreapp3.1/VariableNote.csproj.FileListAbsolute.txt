@@ -1,0 +1,13 @@
+C:\C#\VariableNote\VariableNote\bin\Debug\netcoreapp3.1\VariableNote.exe
+C:\C#\VariableNote\VariableNote\bin\Debug\netcoreapp3.1\VariableNote.deps.json
+C:\C#\VariableNote\VariableNote\bin\Debug\netcoreapp3.1\VariableNote.runtimeconfig.json
+C:\C#\VariableNote\VariableNote\bin\Debug\netcoreapp3.1\VariableNote.runtimeconfig.dev.json
+C:\C#\VariableNote\VariableNote\bin\Debug\netcoreapp3.1\VariableNote.dll
+C:\C#\VariableNote\VariableNote\bin\Debug\netcoreapp3.1\VariableNote.pdb
+C:\C#\VariableNote\VariableNote\obj\Debug\netcoreapp3.1\VariableNote.csprojAssemblyReference.cache
+C:\C#\VariableNote\VariableNote\obj\Debug\netcoreapp3.1\VariableNote.AssemblyInfoInputs.cache
+C:\C#\VariableNote\VariableNote\obj\Debug\netcoreapp3.1\VariableNote.AssemblyInfo.cs
+C:\C#\VariableNote\VariableNote\obj\Debug\netcoreapp3.1\VariableNote.csproj.CoreCompileInputs.cache
+C:\C#\VariableNote\VariableNote\obj\Debug\netcoreapp3.1\VariableNote.dll
+C:\C#\VariableNote\VariableNote\obj\Debug\netcoreapp3.1\VariableNote.pdb
+C:\C#\VariableNote\VariableNote\obj\Debug\netcoreapp3.1\VariableNote.genruntimeconfig.cache

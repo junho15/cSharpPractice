@@ -1,0 +1,13 @@
+C:\C#\ConsoleApp200728\ConsoleApp200728\bin\Debug\netcoreapp3.1\ConsoleApp200728.exe
+C:\C#\ConsoleApp200728\ConsoleApp200728\bin\Debug\netcoreapp3.1\ConsoleApp200728.deps.json
+C:\C#\ConsoleApp200728\ConsoleApp200728\bin\Debug\netcoreapp3.1\ConsoleApp200728.runtimeconfig.json
+C:\C#\ConsoleApp200728\ConsoleApp200728\bin\Debug\netcoreapp3.1\ConsoleApp200728.runtimeconfig.dev.json
+C:\C#\ConsoleApp200728\ConsoleApp200728\bin\Debug\netcoreapp3.1\ConsoleApp200728.dll
+C:\C#\ConsoleApp200728\ConsoleApp200728\bin\Debug\netcoreapp3.1\ConsoleApp200728.pdb
+C:\C#\ConsoleApp200728\ConsoleApp200728\obj\Debug\netcoreapp3.1\ConsoleApp200728.csprojAssemblyReference.cache
+C:\C#\ConsoleApp200728\ConsoleApp200728\obj\Debug\netcoreapp3.1\ConsoleApp200728.AssemblyInfoInputs.cache
+C:\C#\ConsoleApp200728\ConsoleApp200728\obj\Debug\netcoreapp3.1\ConsoleApp200728.AssemblyInfo.cs
+C:\C#\ConsoleApp200728\ConsoleApp200728\obj\Debug\netcoreapp3.1\ConsoleApp200728.csproj.CoreCompileInputs.cache
+C:\C#\ConsoleApp200728\ConsoleApp200728\obj\Debug\netcoreapp3.1\ConsoleApp200728.dll
+C:\C#\ConsoleApp200728\ConsoleApp200728\obj\Debug\netcoreapp3.1\ConsoleApp200728.pdb
+C:\C#\ConsoleApp200728\ConsoleApp200728\obj\Debug\netcoreapp3.1\ConsoleApp200728.genruntimeconfig.cache
